@@ -143,7 +143,7 @@ Avant tout :
 
   </details> 
 
-## 5. Renommage de fichiers
+## 5. Renomage de fichiers
 
 - Evoli évolue en Aquali !  
   Renomme le fichier `evoli.txt` en `aquali.txt`
